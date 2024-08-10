@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+bun.lockb
 
 # testing
 /coverage
@@ -41,3 +42,5 @@ next-env.d.ts
 .idx
 *.un~
 *~
+bun.lockb
+bun.lockb
